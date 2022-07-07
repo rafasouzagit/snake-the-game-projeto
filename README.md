@@ -7,4 +7,4 @@
 <p>JavaScript</p>
 <br>
 <p>Esse jogo foi feito a partir do desafio de projeto da Digital Innovation One no Bootcamp HTML Web Developer, mas as cores, botão e background eu criei para deixar mas no meu estilo.</p>
-<p>Disponível em:</p>
+<p>Disponível em:<a>https://rafasouzagit.github.io/snake-the-game-projeto/</a></p>
